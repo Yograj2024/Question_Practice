@@ -7,5 +7,5 @@ function reverseSting (str){
     return reversed;
 } 
 
-const result = reverseSting('hello world');
-// console.log(result);
+const result = reverseSting('helloWorld');
+console.log(result);
